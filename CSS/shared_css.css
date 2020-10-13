@@ -133,7 +133,7 @@ section {
    HOME SECTION STYLES
    =============================*/
 #home {
-    background: url('../images/rollercoaster-main.jpg') no repeat 50% 50%;
+    background: url('../images/rollercoaster-main.jpg') no-repeat 50% 50%;
     background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -142,8 +142,8 @@ section {
     width: 100%;
     display: block;
     height: auto;
-    padding-top: 350px;
-    padding-bottom: 500px;
+    padding-top: 300px;
+    padding-bottom: 400px;
     color: #fff;
 }
 
@@ -152,19 +152,19 @@ section {
     font-variant: small-caps;
     color: #fff;
     letter-spacing: 5pt;
-    word-spacing: 21pt;
-    font-size: 4.5em;
+    word-spacing: 19pt;
+    font-size: 4em;
     text-align: left;
     font-family: impact, sans-serif;
     line-height: 2;
-    font-weight: 900;
+    font-weight: 600;
     border: 5px double #fff;
     padding: 10px;
 }
 
 .head-sub-main {
-    font-size: 23px;
-    font-weight: 500;
+    font-size: 20px;
+    font-weight: 400;
     padding: 50px 20px 10px 20px;
     text-transform: uppercase; 
 }
